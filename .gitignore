@@ -1,0 +1,12 @@
+.env
+vendor/
+# /public/uploads*/
+composer.lock
+bootstrap/cache/*
+node_modules
+*.zip
+*.pdf
+public/pdf_files/*
+"public/pdf_files/"
+storage/
+/storage/logs/*.log
